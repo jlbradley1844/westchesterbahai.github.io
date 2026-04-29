@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service &amp; Development on Baha&#39;is of Westchester NY</title>
+    <link>https://westchesterbahais.org/development/</link>
+    <description>Recent content in Service &amp; Development on Baha&#39;is of Westchester NY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://westchesterbahais.org/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mount Vernon Alive</title>
+      <link>https://westchesterbahais.org/development/mt-vernon-alive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/development/mt-vernon-alive/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New Era Creative Space</title>
+      <link>https://westchesterbahais.org/development/necs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/development/necs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Race Amity of Northern Westchester and Putnam</title>
+      <link>https://westchesterbahais.org/development/race-unity-nw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/development/race-unity-nw/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Race Unity Circle</title>
+      <link>https://westchesterbahais.org/development/race-unity-circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/development/race-unity-circle/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

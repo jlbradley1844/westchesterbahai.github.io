@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devotionals on Baha&#39;is of Westchester NY</title>
+    <link>https://westchesterbahais.org/devotionals/</link>
+    <description>Recent content in Devotionals on Baha&#39;is of Westchester NY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="https://westchesterbahais.org/devotionals/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Friday Night Zoom Devotional</title>
+      <link>https://westchesterbahais.org/devotionals/scarsdale-fri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/devotionals/scarsdale-fri/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Virtues Sanctuary</title>
+      <link>https://westchesterbahais.org/devotionals/virtues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/devotionals/virtues/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tuesday Zoom Devotional</title>
+      <link>https://westchesterbahais.org/devotionals/tuesday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://westchesterbahais.org/devotionals/tuesday/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
